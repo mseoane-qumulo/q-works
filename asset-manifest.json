@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mseoane-qumulo/q-works/static/css/main.e6c13ad2.css",
+    "main.js": "/mseoane-qumulo/q-works/static/js/main.4b1de1f6.js",
+    "static/js/466.28c0ba93.chunk.js": "/mseoane-qumulo/q-works/static/js/466.28c0ba93.chunk.js",
+    "static/js/795.b01f59df.chunk.js": "/mseoane-qumulo/q-works/static/js/795.b01f59df.chunk.js",
+    "static/js/411.fc20dfc2.chunk.js": "/mseoane-qumulo/q-works/static/js/411.fc20dfc2.chunk.js",
+    "static/js/488.e0663497.chunk.js": "/mseoane-qumulo/q-works/static/js/488.e0663497.chunk.js",
+    "static/media/qworks.png": "/mseoane-qumulo/q-works/static/media/qworks.5e31de686444177f99a7.png",
+    "index.html": "/mseoane-qumulo/q-works/index.html",
+    "main.e6c13ad2.css.map": "/mseoane-qumulo/q-works/static/css/main.e6c13ad2.css.map",
+    "main.4b1de1f6.js.map": "/mseoane-qumulo/q-works/static/js/main.4b1de1f6.js.map",
+    "488.e0663497.chunk.js.map": "/mseoane-qumulo/q-works/static/js/488.e0663497.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4b1de1f6.js"
+  ]
+}
