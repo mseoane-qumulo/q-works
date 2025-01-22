@@ -11,6 +11,7 @@ import NotFound from './pages/NotFound';
 const App = () => (
   <Router>
     <Header />
+    <title>q-works</title>  {/* Set page title */}
     <main>
       <Routes>
         <Route path="/" element={<Home />} />
