@@ -2,7 +2,7 @@
   "name": "q-works",
   "version": "0.1.0",
   "private": true,
-  "homepage": "ihttps://github.com/mseoane-qumulo/q-works",
+  "homepage": "https://github.com/mseoane-qumulo/q-works",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
@@ -19,8 +19,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-}
-
   },
   "eslintConfig": {
     "extends": [
